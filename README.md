@@ -1,2 +1,7 @@
-# Site-institucional_Est-tico
-Landing Page estática de uma empresa
+# PROJETO PORTFÓLIO: Site estático de uma empresa
+
+## Criação de uma landing page estática institucional para uma empresa.
+
+### Tecnologias utilizadas:
+* HTML5
+* CSS3
